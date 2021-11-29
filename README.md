@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on EXPLORING OPEN SOURCE
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to studying in NUFE
+- 🤔 I’m looking for help with open source software classification
+- 📫 How to reach me: ZXYASRF@163.com
 [![xgdyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgdyp&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgdyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
