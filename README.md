@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on EXPLORING OPEN SOURCE
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to studying in NUFE
 - 🤔 I’m looking for help with open source software classification
 - 📫 How to reach me: ZXYASRF@163.com
 
